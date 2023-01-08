@@ -9,4 +9,7 @@ True,"(""barrel"")"
 7,"(""wall"")"
 8,"(""shelf"",""cupboard"")"
 9,"(""carpet"")"
-10,"(""roo
+10,"(""room"")"
+11,"(""lever"")"
+12,"(""pedestal"",""button"")"
+13,"(""stairs"", ""upstairs"", ""downstairs"")"
