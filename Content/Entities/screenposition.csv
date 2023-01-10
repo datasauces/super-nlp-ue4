@@ -20,4 +20,6 @@ False,"(""right"",""rightmost"",""right-most"",""righthand"",""right-hand"")"
 18,"(""around"")"
 19,"(""topleft"", ""topleftmost"", ""top-left"", ""top-left-most"")"
 20,"(""bottomleft"", ""bottomleftmost"", ""bottom-left"", ""bottom-left-most"")"
-21,"(""bottomri
+21,"(""bottomright"", ""bottomrightmost"", ""bottom-right"", ""bottom-right-most"")"
+22,"(""topright"", ""toprightmost"", ""top-right"", ""top-right-most"")"
+23,"(""topmiddl
