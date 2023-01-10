@@ -17,4 +17,7 @@ False,"(""right"",""rightmost"",""right-most"",""righthand"",""right-hand"")"
 15,"(""last"",""previous"")"
 16,"(""closest"", ""close"", ""nearest"", ""near"")"
 17,"(""furthest"", ""far"")"
-18,"(""aro
+18,"(""around"")"
+19,"(""topleft"", ""topleftmost"", ""top-left"", ""top-left-most"")"
+20,"(""bottomleft"", ""bottomleftmost"", ""bottom-left"", ""bottom-left-most"")"
+21,"(""bottomri
