@@ -345,3 +345,50 @@ class KerasBackProp(TFPluginAPI):
 
 			concatenated_tensor = tf.keras.layers.Concatenate(axis=1)([maxpool_0, maxpool_1, maxpool_2])
 			flatten = tf.keras.layers.Flatten()(concatenated_tensor)
+			dropout = tf.keras.layers.Dropout(drop)(flatten)
+			output = tf.keras.layers.Dense(units=nrIntents, activation='softmax')(dropout)
+
+			model = tf.keras.Model(inputs=inputs, outputs=output)
+			
+			ue.log("Model made.")
+
+			model.compile(	optimizer=tf.train.AdamOptimizer(0.0001),
+							loss='binary_crossentropy',
+							metrics=['accuracy'])
+			
+			ue.log("Model compiled.")
+			
+			ue.log(model.summary())
+
+			model.fit(x_train_word2vec, y_train_modified, batch_size=128, epochs=1000, callbacks=[self.kerasCallback], validation_data = (x_test_word2vec, y_test_modified))
+			
+			ue.log("Testing Model.")
+			
+			result = model.evaluate(x_test_word2vec, y_test_modified, verbose=0)
+			print("%s: %.2f%%" % (model.metrics_names[1], result[1]*100))
+
+			ue.log("Model fit.")
+
+			ue.log(repr(result))
+			
+			self.callEvent(repr(result), {}, True)
+			#self.callEvent(repr(model.metrics_names), {}, True)
+			
+			#self.callEvent(repr(word2vecmodel['none']), {}, True)
+			ue.log("Training complete.")
+					
+			#store our model and graph for prediction
+			self.graph = tf.get_default_graph()
+			self.model = model
+			
+			#Save Model to 		scripts_path + '/my_model.h5'
+			model.save(scripts_path + '/my_model.h5')
+			
+			#fix lag
+			tf.reset_default_graph()
+
+
+#required function to get our api
+def getApi():
+	#return CLASSNAME.getInstance()
+	return KerasBackProp.getInstance()
