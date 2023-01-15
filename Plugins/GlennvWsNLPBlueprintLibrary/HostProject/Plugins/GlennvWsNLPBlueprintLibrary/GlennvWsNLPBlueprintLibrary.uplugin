@@ -16,4 +16,8 @@
 	"Modules": [
 		{
 			"Name": "GlennvWsNLPBlueprintLibrary",
-			"Type": "Runtim
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
