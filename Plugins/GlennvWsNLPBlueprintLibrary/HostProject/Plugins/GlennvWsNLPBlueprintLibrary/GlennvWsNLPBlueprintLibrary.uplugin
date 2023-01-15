@@ -10,4 +10,10 @@
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"CanConta
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GlennvWsNLPBlueprintLibrary",
+			"Type": "Runtim
