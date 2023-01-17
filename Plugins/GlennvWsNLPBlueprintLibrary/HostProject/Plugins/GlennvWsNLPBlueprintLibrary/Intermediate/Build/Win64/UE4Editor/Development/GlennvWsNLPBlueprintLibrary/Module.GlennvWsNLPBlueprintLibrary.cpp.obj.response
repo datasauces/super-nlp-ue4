@@ -50,3 +50,7 @@
 /I Runtime\Sockets\Public
 /I Runtime\UtilityShaders\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
+/I Runtime\AssetRegistry\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EngineMessages
+/I Runtime\EngineMessages\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\
