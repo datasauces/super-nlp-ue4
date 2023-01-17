@@ -57,4 +57,9 @@
 /I Runtime\EngineSettings\Classes
 /I Runtime\EngineSettings\Public
 /I Runtime\SynthBenchmark\Public
-/I ..\Intermediate\
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Renderer
+/I Runtime\Renderer\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags
+/I Runtime\GameplayTags\Classes
+/I Runtime\GameplayTags\Public
+/I 
