@@ -35,4 +35,9 @@
 /I Runtime\ApplicationCore\Public
 /I Runtime\RHI\Public
 /I Runtime\Json\Public
-/I ..\Intermediate\Build\Win64\UE4Edi
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore
+/I Runtime\SlateCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\InputCore
+/I Runtime\InputCore\Classes
+/I Runtime\InputCore\Public
+/I ..\Intermediate\B
