@@ -53,4 +53,8 @@
 /I Runtime\AssetRegistry\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\EngineMessages
 /I Runtime\EngineMessages\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings
+/I Runtime\EngineSettings\Classes
+/I Runtime\EngineSettings\Public
+/I Runtime\SynthBenchmark\Public
+/I ..\Intermediate\
