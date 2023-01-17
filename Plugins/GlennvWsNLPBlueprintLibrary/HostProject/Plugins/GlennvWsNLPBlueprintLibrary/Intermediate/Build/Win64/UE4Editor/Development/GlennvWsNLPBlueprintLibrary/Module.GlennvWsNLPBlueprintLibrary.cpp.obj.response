@@ -40,4 +40,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\InputCore
 /I Runtime\InputCore\Classes
 /I Runtime\InputCore\Public
-/I ..\Intermediate\B
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
+/I Runtime\Slate\Public
+/I Runtime\ImageWrapper\Public
+/I Runtime\Messaging\Public
+/I Runtime\MessagingCommon\Public
+/I Runtime\RenderCore
