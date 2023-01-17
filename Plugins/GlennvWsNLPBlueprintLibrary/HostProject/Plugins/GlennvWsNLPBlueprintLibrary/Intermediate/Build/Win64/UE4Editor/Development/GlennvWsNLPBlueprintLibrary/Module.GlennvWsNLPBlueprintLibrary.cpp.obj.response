@@ -22,4 +22,7 @@
 /Zp8
 /wd4463
 /wd4838
-/we4
+/we4668
+/I .
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Source\GlennvWsNLPBlueprintLibrary\Private
+/I ..\I
