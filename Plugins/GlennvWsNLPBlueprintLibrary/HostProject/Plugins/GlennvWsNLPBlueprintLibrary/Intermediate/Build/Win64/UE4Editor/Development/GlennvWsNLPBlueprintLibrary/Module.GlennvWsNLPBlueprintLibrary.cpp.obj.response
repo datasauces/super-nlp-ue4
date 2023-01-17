@@ -45,4 +45,8 @@
 /I Runtime\ImageWrapper\Public
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
-/I Runtime\RenderCore
+/I Runtime\RenderCore\Public
+/I Runtime\ShaderCore\Public
+/I Runtime\Sockets\Public
+/I Runtime\UtilityShaders\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
