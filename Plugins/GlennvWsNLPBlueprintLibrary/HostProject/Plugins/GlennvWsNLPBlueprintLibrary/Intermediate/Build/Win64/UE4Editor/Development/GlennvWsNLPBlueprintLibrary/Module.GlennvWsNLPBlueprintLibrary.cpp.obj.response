@@ -66,4 +66,7 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler
 /I Runtime\PacketHandlers
 /I Runtime\PacketHandlers\PacketHandler\Classes
-/I Runti
+/I Runtime\PacketHandlers\PacketHandler\Public
+/I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration
+/I Runtime
