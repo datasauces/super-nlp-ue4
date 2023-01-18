@@ -62,4 +62,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags
 /I Runtime\GameplayTags\Classes
 /I Runtime\GameplayTags\Public
-/I 
+/I Runtime\DatabaseSupport\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler
+/I Runtime\PacketHandlers
+/I Runtime\PacketHandlers\PacketHandler\Classes
+/I Runti
