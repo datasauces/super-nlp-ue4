@@ -83,4 +83,8 @@
 /I Developer
 /I Developer\DirectoryWatcher\Public
 /I Editor\Documentation\Public
-/I Runtime\Projects
+/I Runtime\Projects\Public
+/I Runtime\SandboxFile\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle
+/I Editor\EditorStyle\Public
+/I ..\Intermediate\B
