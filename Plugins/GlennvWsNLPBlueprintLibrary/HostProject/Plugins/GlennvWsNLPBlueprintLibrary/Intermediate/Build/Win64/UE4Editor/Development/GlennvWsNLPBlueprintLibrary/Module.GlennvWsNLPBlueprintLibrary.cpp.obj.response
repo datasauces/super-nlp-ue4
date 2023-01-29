@@ -77,4 +77,10 @@
 /I Editor
 /I Programs\UnrealLightmass\Public
 /I Developer\Android\AndroidDeviceDetection\Public\Interfaces
-/I Edito
+/I Editor\UnrealEd\Classes
+/I Editor\UnrealEd\Public
+/I Editor\BspMode\Public
+/I Developer
+/I Developer\DirectoryWatcher\Public
+/I Editor\Documentation\Public
+/I Runtime\Projects
