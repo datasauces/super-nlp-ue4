@@ -94,4 +94,9 @@
 /I Editor\UnrealEdMessages\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayDebugger
 /I Developer\GameplayDebugger\Public
-/I ..\
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph
+/I Editor\BlueprintGraph\Classes
+/I Editor\BlueprintGraph\Public
+/I Runtime\Online
+/I Runtime\Online\HTTP\Public
+/I Runtime\UnrealAudio\Pub
