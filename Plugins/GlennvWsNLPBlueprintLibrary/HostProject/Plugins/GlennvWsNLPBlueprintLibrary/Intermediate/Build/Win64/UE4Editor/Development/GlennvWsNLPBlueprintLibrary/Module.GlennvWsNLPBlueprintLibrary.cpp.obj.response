@@ -73,3 +73,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription
 /I Runtime\MeshDescription\Public
 /I Runtime\PakFile\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
+/I Editor
+/I Programs\UnrealLightmass\Public
+/I Developer\Android\AndroidDeviceDetection\Public\Interfaces
+/I Edito
