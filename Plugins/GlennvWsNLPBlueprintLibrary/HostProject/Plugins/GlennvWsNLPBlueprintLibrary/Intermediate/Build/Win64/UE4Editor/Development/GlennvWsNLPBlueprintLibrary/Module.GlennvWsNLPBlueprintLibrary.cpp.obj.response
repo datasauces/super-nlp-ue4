@@ -87,4 +87,7 @@
 /I Runtime\SandboxFile\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle
 /I Editor\EditorStyle\Public
-/I ..\Intermediate\B
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl
+/I Developer\SourceControl\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEdMessages
+/I Editor\UnrealEd
