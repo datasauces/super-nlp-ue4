@@ -103,4 +103,7 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting
 /I Developer\FunctionalTesting\Classes
 /I Developer\FunctionalTesting\Public
-/I ..\Intermediate\Build\Win6
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AutomationController
+/I Developer\AutomationController\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Localization
+/I Developer\Localization\Publ
