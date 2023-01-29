@@ -99,4 +99,8 @@
 /I Editor\BlueprintGraph\Public
 /I Runtime\Online
 /I Runtime\Online\HTTP\Public
-/I Runtime\UnrealAudio\Pub
+/I Runtime\UnrealAudio\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting
+/I Developer\FunctionalTesting\Classes
+/I Developer\FunctionalTesting\Public
+/I ..\Intermediate\Build\Win6
