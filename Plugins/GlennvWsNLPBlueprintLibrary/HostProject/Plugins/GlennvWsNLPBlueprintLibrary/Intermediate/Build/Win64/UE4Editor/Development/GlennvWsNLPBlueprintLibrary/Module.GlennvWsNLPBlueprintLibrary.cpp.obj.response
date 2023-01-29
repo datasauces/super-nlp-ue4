@@ -90,4 +90,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl
 /I Developer\SourceControl\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEdMessages
-/I Editor\UnrealEd
+/I Editor\UnrealEdMessages\Classes
+/I Editor\UnrealEdMessages\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayDebugger
+/I Developer\GameplayDebugger\Public
+/I ..\
