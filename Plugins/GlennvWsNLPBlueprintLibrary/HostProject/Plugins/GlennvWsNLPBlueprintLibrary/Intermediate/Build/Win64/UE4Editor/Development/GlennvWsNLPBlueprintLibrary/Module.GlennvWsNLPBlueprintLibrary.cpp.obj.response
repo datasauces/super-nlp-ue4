@@ -69,4 +69,7 @@
 /I Runtime\PacketHandlers\PacketHandler\Public
 /I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration
-/I Runtime
+/I Runtime\AudioPlatformConfiguration\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription
+/I Runtime\MeshDescription\Public
+/I Runtime\PakFile\Public
