@@ -123,4 +123,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Landscape
 /I Runtime\Landscape\Classes
 /I Runtime\Landscape\Public
-/I Editor\PropertyEd
+/I Editor\PropertyEditor\Public
+/I Editor\ActorPickerMode\Public
+/I Editor\SceneDepthPickerMode\Public
+/I Editor\DetailCustomizations\Public
+/I ..\Intermed
