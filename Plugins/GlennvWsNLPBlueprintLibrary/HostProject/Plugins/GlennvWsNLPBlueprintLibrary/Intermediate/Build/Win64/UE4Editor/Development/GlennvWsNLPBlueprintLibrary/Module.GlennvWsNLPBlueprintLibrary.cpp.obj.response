@@ -119,4 +119,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\VREditor
 /I Editor\VREditor
 /I Editor\VREditor\Public
-/I Editor\Co
+/I Editor\CommonMenuExtensions\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Landscape
+/I Runtime\Landscape\Classes
+/I Runtime\Landscape\Public
+/I Editor\PropertyEd
