@@ -114,4 +114,9 @@
 /I Developer\Settings\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\IntroTutorials
 /I Editor\IntroTutorials\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay
+/I Runtime\HeadMountedDisplay\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\VREditor
+/I Editor\VREditor
+/I Editor\VREditor\Public
+/I Editor\Co
