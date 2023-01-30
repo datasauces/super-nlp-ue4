@@ -106,4 +106,9 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AutomationController
 /I Developer\AutomationController\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Localization
-/I Developer\Localization\Publ
+/I Developer\Localization\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor
+/I Editor\AudioEditor\Classes
+/I Editor\AudioEditor\Public
+/I Editor\LevelEditor\Public
+/I Develo
