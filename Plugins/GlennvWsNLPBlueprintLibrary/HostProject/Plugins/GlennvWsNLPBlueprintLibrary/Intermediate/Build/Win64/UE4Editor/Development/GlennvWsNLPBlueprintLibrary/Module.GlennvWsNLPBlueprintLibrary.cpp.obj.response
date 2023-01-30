@@ -111,4 +111,7 @@
 /I Editor\AudioEditor\Classes
 /I Editor\AudioEditor\Public
 /I Editor\LevelEditor\Public
-/I Develo
+/I Developer\Settings\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\IntroTutorials
+/I Editor\IntroTutorials\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc
