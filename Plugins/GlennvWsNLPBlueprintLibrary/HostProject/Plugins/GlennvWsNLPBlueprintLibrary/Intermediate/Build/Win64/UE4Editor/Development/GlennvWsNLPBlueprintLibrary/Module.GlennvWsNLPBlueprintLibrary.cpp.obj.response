@@ -127,4 +127,8 @@
 /I Editor\ActorPickerMode\Public
 /I Editor\SceneDepthPickerMode\Public
 /I Editor\DetailCustomizations\Public
-/I ..\Intermed
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClassViewer
+/I Editor\ClassViewer\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor
+/I Editor\GraphEditor\Public
+/I ..\Inter
