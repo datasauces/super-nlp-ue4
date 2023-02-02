@@ -135,4 +135,8 @@
 /I Editor\ContentBrowser\Public
 /I Runtime\NetworkFileSystem\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMG
-/I Ru
+/I Runtime\UMG\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene
+/I Runtime\MovieScene\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\TimeManagement
+/
