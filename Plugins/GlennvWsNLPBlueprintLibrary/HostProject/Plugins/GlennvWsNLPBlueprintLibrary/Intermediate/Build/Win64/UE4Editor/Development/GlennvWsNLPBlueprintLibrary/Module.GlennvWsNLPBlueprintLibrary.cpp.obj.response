@@ -162,4 +162,8 @@
 /I Developer\MeshMergeUtilities\Public
 /I Developer\HierarchicalLODUtilities\Public
 /I Developer\MeshReductionInterface\Public
-/I ..\Intermediate\Build\Win64\UE4
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools
+/I Developer\AssetTools\Public
+/I Editor\KismetCompiler\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks
+/I Runtime\GameplayTasks
