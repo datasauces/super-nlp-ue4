@@ -139,4 +139,7 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene
 /I Runtime\MovieScene\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\TimeManagement
-/
+/I Runtime\TimeManagement\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks
+/I Runtime\MovieSceneTracks\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\I
