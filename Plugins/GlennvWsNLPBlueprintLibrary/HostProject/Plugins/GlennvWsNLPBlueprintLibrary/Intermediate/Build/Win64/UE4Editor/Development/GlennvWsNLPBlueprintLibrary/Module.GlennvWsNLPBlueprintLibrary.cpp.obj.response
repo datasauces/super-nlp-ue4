@@ -166,4 +166,9 @@
 /I Developer\AssetTools\Public
 /I Editor\KismetCompiler\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks
-/I Runtime\GameplayTasks
+/I Runtime\GameplayTasks\Classes
+/I Runtime\GameplayTasks\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AIModule
+/I Runtime\AIModule\Public
+/I Runtime\AIModule\Classes
+/I ..\Intermediate
