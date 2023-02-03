@@ -158,4 +158,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AddContentDialog
 /I Editor\AddContentDialog\Public
 /I ThirdParty\IntelEmbree\Embree2140\Win64\include
-/I Developer\MeshUtilitie
+/I Developer\MeshUtilities\Public
+/I Developer\MeshMergeUtilities\Public
+/I Developer\HierarchicalLODUtilities\Public
+/I Developer\MeshReductionInterface\Public
+/I ..\Intermediate\Build\Win64\UE4
