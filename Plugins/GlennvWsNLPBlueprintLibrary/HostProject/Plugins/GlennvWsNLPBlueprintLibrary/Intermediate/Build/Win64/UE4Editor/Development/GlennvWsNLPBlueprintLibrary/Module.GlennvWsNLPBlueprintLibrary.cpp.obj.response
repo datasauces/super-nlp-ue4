@@ -155,4 +155,7 @@
 /I Runtime\Windows\XAudio2\Public
 /I Runtime\AudioMixer\Public
 /I Developer\CollectionManager\Public
-/I ..\Intermed
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AddContentDialog
+/I Editor\AddContentDialog\Public
+/I ThirdParty\IntelEmbree\Embree2140\Win64\include
+/I Developer\MeshUtilitie
