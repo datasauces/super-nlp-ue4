@@ -150,4 +150,9 @@
 /I Runtime\NavigationSystem\Public
 /I Developer\MeshBuilder\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings
-/I Runtime\Materi
+/I Runtime\MaterialShaderQualitySettings\Classes
+/I Runtime\Windows
+/I Runtime\Windows\XAudio2\Public
+/I Runtime\AudioMixer\Public
+/I Developer\CollectionManager\Public
+/I ..\Intermed
