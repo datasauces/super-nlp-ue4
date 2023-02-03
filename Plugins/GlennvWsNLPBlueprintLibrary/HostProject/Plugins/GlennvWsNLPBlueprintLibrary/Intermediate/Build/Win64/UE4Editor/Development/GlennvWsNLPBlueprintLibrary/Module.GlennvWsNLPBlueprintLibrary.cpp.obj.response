@@ -142,4 +142,8 @@
 /I Runtime\TimeManagement\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks
 /I Runtime\MovieSceneTracks\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\I
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore
+/I Runtime\AnimationCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath
+/I Runtime\PropertyPath\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc
