@@ -183,4 +183,5 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Intermediate\Build\Win64\UE4Editor\Inc\GlennvWsNLPBlueprintLibrary
-/I G:\Dev\nlp-ue4\Plugins\GlennvWsNL
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Source
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibra
