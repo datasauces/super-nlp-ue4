@@ -178,4 +178,8 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\NetworkReplayStreaming
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
-/I ..\Intermediate\Build\W
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
+/I Runtime\AudioMixer\Classes
+/I ThirdParty
+/I ThirdParty\libSampleRate\Public
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostP
