@@ -184,4 +184,6 @@
 /I ThirdParty\libSampleRate\Public
 /I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Intermediate\Build\Win64\UE4Editor\Inc\GlennvWsNLPBlueprintLibrary
 /I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Source
-/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibra
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Source\GlennvWsNLPBlueprintLibrary\Public
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows K
