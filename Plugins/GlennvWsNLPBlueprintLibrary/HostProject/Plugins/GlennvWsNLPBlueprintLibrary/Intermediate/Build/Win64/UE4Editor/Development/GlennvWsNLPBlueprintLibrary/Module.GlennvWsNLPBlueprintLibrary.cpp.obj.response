@@ -193,4 +193,5 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
 /FI"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Devel
+/Fp"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Intermediate\Build\
