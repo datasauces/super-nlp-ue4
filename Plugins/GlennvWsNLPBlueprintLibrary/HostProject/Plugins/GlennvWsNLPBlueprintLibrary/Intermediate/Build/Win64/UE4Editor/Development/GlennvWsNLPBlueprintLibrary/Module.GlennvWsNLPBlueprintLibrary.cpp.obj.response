@@ -194,4 +194,5 @@
 /FI"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Intermediate\Build\
+"G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Intermediate\Build\Win64\UE4Editor\Development\GlennvWsNLPBlueprintLibrary\Module.GlennvWsNLPBlueprintLibrary.cpp"
+/FI"G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNL
