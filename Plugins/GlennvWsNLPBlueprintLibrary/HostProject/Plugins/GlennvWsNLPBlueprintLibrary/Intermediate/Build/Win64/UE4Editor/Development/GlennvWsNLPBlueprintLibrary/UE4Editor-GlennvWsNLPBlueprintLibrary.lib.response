@@ -5,4 +5,6 @@
 /DEF
 /NAME:"UE4Editor-GlennvWsNLPBlueprintLibrary.dll"
 /IGNORE:4221
-/NODE
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"G:\Dev\nlp-ue4\Plugins\GlennvWs
