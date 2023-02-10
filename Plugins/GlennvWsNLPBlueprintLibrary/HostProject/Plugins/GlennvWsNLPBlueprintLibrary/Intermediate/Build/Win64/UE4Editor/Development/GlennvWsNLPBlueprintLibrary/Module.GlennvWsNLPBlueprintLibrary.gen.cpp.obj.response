@@ -1,0 +1,113 @@
+
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gy
+/Zm850
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/source-charset:utf-8 /execution-charset:utf-8
+/Ox
+/Ot
+/Ob2
+/errorReport:prompt
+/EHsc
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/wd4463
+/wd4838
+/we4668
+/I .
+/I G:\Dev\nlp-ue4\Plugins\GlennvWsNLPBlueprintLibrary\HostProject\Plugins\GlennvWsNLPBlueprintLibrary\Source\GlennvWsNLPBlueprintLibrary\Private
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
+/I Runtime
+/I Runtime\CoreUObject\Public
+/I Runtime\Core\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
+/I Runtime\ApplicationCore\Public
+/I Runtime\RHI\Public
+/I Runtime\Json\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore
+/I Runtime\SlateCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\InputCore
+/I Runtime\InputCore\Classes
+/I Runtime\InputCore\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Slate
+/I Runtime\Slate\Public
+/I Runtime\ImageWrapper\Public
+/I Runtime\Messaging\Public
+/I Runtime\MessagingCommon\Public
+/I Runtime\RenderCore\Public
+/I Runtime\ShaderCore\Public
+/I Runtime\Sockets\Public
+/I Runtime\UtilityShaders\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
+/I Runtime\AssetRegistry\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EngineMessages
+/I Runtime\EngineMessages\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings
+/I Runtime\EngineSettings\Classes
+/I Runtime\EngineSettings\Public
+/I Runtime\SynthBenchmark\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Renderer
+/I Runtime\Renderer\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags
+/I Runtime\GameplayTags\Classes
+/I Runtime\GameplayTags\Public
+/I Runtime\DatabaseSupport\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler
+/I Runtime\PacketHandlers
+/I Runtime\PacketHandlers\PacketHandler\Classes
+/I Runtime\PacketHandlers\PacketHandler\Public
+/I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration
+/I Runtime\AudioPlatformConfiguration\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription
+/I Runtime\MeshDescription\Public
+/I Runtime\PakFile\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
+/I Editor
+/I Programs\UnrealLightmass\Public
+/I Developer\Android\AndroidDeviceDetection\Public\Interfaces
+/I Editor\UnrealEd\Classes
+/I Editor\UnrealEd\Public
+/I Editor\BspMode\Public
+/I Developer
+/I Developer\DirectoryWatcher\Public
+/I Editor\Documentation\Public
+/I Runtime\Projects\Public
+/I Runtime\SandboxFile\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle
+/I Editor\EditorStyle\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl
+/I Developer\SourceControl\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEdMessages
+/I Editor\UnrealEdMessages\Classes
+/I Editor\UnrealEdMessages\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayDebugger
+/I Developer\GameplayDebugger\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph
+/I Editor\BlueprintGraph\Classes
+/I Editor\BlueprintGraph\Public
+/I Runtime\Online
+/I Runtime\Online\HTTP\Public
+/I Runtime\UnrealAudio\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting
+/I Developer\FunctionalTesting\Classes
+/I Developer\FunctionalTesting\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AutomationController
+/I Developer\AutomationController\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Localization
+/I Developer\Localization\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor
+/I Editor\AudioEditor\Classes
+/I Editor\AudioEditor\Public
