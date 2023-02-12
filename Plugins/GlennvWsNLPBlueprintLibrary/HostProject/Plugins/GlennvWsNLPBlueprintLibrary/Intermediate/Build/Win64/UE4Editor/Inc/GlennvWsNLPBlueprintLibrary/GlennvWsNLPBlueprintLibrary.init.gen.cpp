@@ -9,4 +9,8 @@
 #pragma warning (push)
 #pragma warning (disable : 4883)
 #endif
-PRAGMA_DISABLE_DEPRECATION_WARNI
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibrary_init() {}
+	UPackage* Z_Construct_UPackage__Script_GlennvWsNLPBlueprintLibrary()
+	{
+		static
