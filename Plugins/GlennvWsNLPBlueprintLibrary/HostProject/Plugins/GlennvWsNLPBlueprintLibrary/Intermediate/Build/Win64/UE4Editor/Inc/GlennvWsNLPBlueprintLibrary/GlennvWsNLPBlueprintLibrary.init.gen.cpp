@@ -30,4 +30,5 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibrary_init() {}
 	}
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 #ifdef _MSC_VER
-#pragma warnin
+#pragma warning (pop)
+#endif
