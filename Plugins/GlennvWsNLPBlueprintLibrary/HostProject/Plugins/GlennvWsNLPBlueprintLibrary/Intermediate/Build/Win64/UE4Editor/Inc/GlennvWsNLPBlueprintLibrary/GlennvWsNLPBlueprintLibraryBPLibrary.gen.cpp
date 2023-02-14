@@ -7,3 +7,8 @@
 #include "UObject/GeneratedCppIncludes.h"
 #include "GlennvWsNLPBlueprintLibrary/Public/GlennvWsNLPBlueprintLibraryBPLibrary.h"
 #ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBluepri
