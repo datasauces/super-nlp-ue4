@@ -16,4 +16,5 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	GLENNVWSNLPBLUEPRINTLIBRARY_API UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_NoRegister();
 	GLENNVWSNLPBLUEPRINTLIBRARY_API UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary();
 	ENGINE_API UClass* Z_Construct_UClass_UBlueprintFunctionLibrary();
-	UP
+	UPackage* Z_Construct_UPackage__Script_GlennvWsNLPBlueprintLibrary();
+	GLENNVWSNLPBLUEPRINTLIBRARY_API UFunction* Z_Construct_UFunction_UGlennv
