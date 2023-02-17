@@ -20,4 +20,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	GLENNVWSNLPBLUEPRINTLIBRARY_API UFunction* Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder();
 	GLENNVWSNLPBLUEPRINTLIBRARY_API UFunction* Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction();
 // End Cross Module References
-	void UGlennvWsNLPBlueprintLibraryBPLibrary::StaticRegisterNativesUGlenn
+	void UGlennvWsNLPBlueprintLibraryBPLibrary::StaticRegisterNativesUGlennvWsNLPBlueprintLibraryBPLibrary()
+	{
+		UClass* Class = UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "GetF
