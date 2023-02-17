@@ -31,4 +31,11 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	}
 	struct Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics
 	{
-		struct GlennvWsNLPBlueprintLibraryBPLibrary
+		struct GlennvWsNLPBlueprintLibraryBPLibrary_eventGetFileListOfRootFolder_Parms
+		{
+			TArray<FString> Files;
+			FString RootFolderFullPath;
+			FString Ext;
+			bool ReturnValue;
+		};
+		static void NewProp_ReturnValu
