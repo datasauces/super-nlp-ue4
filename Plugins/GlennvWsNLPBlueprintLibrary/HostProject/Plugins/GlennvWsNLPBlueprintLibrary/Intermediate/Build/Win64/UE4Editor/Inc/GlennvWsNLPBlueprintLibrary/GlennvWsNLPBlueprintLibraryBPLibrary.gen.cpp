@@ -24,4 +24,5 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	{
 		UClass* Class = UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
-			{ "GetF
+			{ "GetFileListOfRootFolder", &UGlennvWsNLPBlueprintLibraryBPLibrary::execGetFileListOfRootFolder },
+			{ "GlennvWsNLPBlueprintLibrarySampleFunction", &UGlennvWsNLPBlueprintLibraryBPLi
