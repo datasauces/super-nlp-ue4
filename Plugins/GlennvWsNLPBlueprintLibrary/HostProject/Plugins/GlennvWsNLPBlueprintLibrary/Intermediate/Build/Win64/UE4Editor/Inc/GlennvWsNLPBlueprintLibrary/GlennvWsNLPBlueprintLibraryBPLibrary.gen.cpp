@@ -44,4 +44,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		static const UE4CodeGen_Private::FStrPropertyParams NewProp_RootFolderFullPath;
 		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_Files;
 		static const UE4CodeGen_Private::FStrPropertyParams NewProp_Files_Inner;
-		static const UE4CodeGen_Private::FProper
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::F
