@@ -52,4 +52,6 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 	void Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::NewProp_ReturnValue_SetBit(void* Obj)
 	{
-		(
+		((GlennvWsNLPBlueprintLibraryBPLibrary_eventGetFileListOfRootFolder_Parms*)Obj)->ReturnValue = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_UGlennvWsNLPBlue
