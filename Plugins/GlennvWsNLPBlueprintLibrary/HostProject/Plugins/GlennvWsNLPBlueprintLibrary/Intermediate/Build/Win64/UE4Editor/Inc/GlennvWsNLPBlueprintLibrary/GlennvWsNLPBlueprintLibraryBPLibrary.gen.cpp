@@ -69,4 +69,9 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::Function_MetaDataParams[] = {
 		{ "Category", "GlennvWsNLPBlueprintLibraryTesting" },
-		{ "DisplayName", "Get File List Of
+		{ "DisplayName", "Get File List Of Root Folder" },
+		{ "Keywords", "GlennvWsNLPBlueprintLibrary sample test testing" },
+		{ "ModuleRelativePath", "Public/GlennvWsNLPBlueprintLibraryBPLibrary.h" },
+	};
+#endif
+	
