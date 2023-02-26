@@ -75,4 +75,9 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 #endif
 	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, "GetFileListOfRootFolder", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04422401, sizeof(GlennvWsNLPBlueprintLibraryBPLibrary_eventGetFileListOfRootFolder_Parms), Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::PropPointers), 0, 0, METADATA_PARAMS(Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileLis
+	UFunction* Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction
