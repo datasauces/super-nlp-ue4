@@ -84,4 +84,9 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		}
 		return ReturnFunction;
 	}
-	struct Z_Construct_UFunction_UGlennvWsNLPBlueprint
+	struct Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction_Statics
+	{
+		struct GlennvWsNLPBlueprintLibraryBPLibrary_eventGlennvWsNLPBlueprintLibrarySampleFunction_Parms
+		{
+			float Param;
+	
