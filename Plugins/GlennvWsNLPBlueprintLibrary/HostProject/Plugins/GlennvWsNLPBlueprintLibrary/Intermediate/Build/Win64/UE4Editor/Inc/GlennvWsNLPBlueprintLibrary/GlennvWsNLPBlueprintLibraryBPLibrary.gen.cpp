@@ -89,4 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		struct GlennvWsNLPBlueprintLibraryBPLibrary_eventGlennvWsNLPBlueprintLibrarySampleFunction_Parms
 		{
 			float Param;
-	
+			float ReturnValue;
+		};
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FFloatPropertyParams New
