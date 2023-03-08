@@ -110,4 +110,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		{ "Category", "GlennvWsNLPBlueprintLibraryTesting" },
 		{ "DisplayName", "Execute Sample function" },
 		{ "Keywords", "GlennvWsNLPBlueprintLibrary sample test testing" },
-		{ "ModuleRelativePath", "Public/GlennvWsNL
+		{ "ModuleRelativePath", "Public/GlennvWsNLPBlueprintLibraryBPLibrary.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampl
