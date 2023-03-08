@@ -107,4 +107,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction_Statics::Function_MetaDataParams[] = {
-		{ "Category", "GlennvWsNLPBlueprintLibra
+		{ "Category", "GlennvWsNLPBlueprintLibraryTesting" },
+		{ "DisplayName", "Execute Sample function" },
+		{ "Keywords", "GlennvWsNLPBlueprintLibrary sample test testing" },
+		{ "ModuleRelativePath", "Public/GlennvWsNL
