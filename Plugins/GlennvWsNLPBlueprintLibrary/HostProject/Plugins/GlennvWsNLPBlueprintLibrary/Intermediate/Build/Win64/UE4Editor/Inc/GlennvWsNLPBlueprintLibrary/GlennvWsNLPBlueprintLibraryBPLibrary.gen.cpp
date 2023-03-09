@@ -113,4 +113,4 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		{ "ModuleRelativePath", "Public/GlennvWsNLPBlueprintLibraryBPLibrary.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, "GlennvWsNLPBlueprintLibrarySampleFunction", RF_Public|RF_Trans
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, "GlennvWsNLPBlueprintLibrarySampleFunction", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04022401, sizeof(GlennvWsNLPBlueprintLibraryBPLibrary_eventGlennvWsNLPBlueprintLibrarySampleFunction_Parms), Z_Construct_UFunction_UGlennvWsN
