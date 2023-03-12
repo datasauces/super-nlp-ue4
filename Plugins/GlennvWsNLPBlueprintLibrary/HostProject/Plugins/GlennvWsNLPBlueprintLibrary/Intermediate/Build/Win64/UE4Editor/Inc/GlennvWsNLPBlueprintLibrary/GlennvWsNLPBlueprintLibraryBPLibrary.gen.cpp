@@ -143,4 +143,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder, "GetFileListOfRootFolder" }, // 2852864540
-		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction, "GlennvWsNLPBlueprintL
+		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction, "GlennvWsNLPBlueprintLibrarySampleFunction" }, // 2762604022
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_
