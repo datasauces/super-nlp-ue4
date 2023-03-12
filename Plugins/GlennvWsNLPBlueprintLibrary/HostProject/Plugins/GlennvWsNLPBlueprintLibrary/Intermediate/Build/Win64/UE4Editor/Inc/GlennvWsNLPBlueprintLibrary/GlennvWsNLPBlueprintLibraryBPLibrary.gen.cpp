@@ -138,4 +138,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
 	UObject* (*const Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::DependentSingletons[])() = {
-		(UObject* (*)())Z_Cons
+		(UObject* (*)())Z_Construct_UClass_UBlueprintFunctionLibrary,
+		(UObject* (*)())Z_Construct_UPackage__Script_GlennvWsNLPBlueprintLibrary,
+	};
+	const FClassFunctionLinkInfo Z_Cons
