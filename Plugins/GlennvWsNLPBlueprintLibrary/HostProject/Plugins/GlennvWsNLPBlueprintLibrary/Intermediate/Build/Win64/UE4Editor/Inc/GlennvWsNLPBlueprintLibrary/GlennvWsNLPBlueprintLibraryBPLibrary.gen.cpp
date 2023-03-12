@@ -123,4 +123,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		}
 		return ReturnFunction;
 	}
-	UClass* Z_Co
+	UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_NoRegister()
+	{
+		return UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass();
+	}
+	struct Z_Construct_UClass_UGlenn
