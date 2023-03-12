@@ -142,4 +142,5 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_GlennvWsNLPBlueprintLibrary,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::FuncInfo[] = {
-		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder, "G
+		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GetFileListOfRootFolder, "GetFileListOfRootFolder" }, // 2852864540
+		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction, "GlennvWsNLPBlueprintL
