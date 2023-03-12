@@ -127,4 +127,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	{
 		return UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass();
 	}
-	struct Z_Construct_UClass_UGlenn
+	struct Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics
+	{
+		static UObject* (*const DependentSingletons[])();
+		static const FClassFunctionLinkInfo FuncInfo[];
+#if WITH_METADATA
