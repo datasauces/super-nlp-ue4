@@ -146,4 +146,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		{ &Z_Construct_UFunction_UGlennvWsNLPBlueprintLibraryBPLibrary_GlennvWsNLPBlueprintLibrarySampleFunction, "GlennvWsNLPBlueprintLibrarySampleFunction" }, // 2762604022
 	};
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams[] = {
+		{ "IncludePath", "GlennvWsNLPBlueprintLibraryBPLibrary.h" },
+		{ "ModuleRelativePath", "Public/GlennvWsNLPBlueprintLibraryBPLibrary.h" },
+		{ "ToolTip", "*      Fu
