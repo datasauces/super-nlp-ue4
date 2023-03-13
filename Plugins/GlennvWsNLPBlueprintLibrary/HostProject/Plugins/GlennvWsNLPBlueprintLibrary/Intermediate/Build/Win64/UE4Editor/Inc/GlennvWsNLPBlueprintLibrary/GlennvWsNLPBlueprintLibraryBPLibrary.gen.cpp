@@ -149,4 +149,4 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams[] = {
 		{ "IncludePath", "GlennvWsNLPBlueprintLibraryBPLibrary.h" },
 		{ "ModuleRelativePath", "Public/GlennvWsNLPBlueprintLibraryBPLibrary.h" },
-		{ "ToolTip", "*      Function library class.\n*      Each function in it is expected to be static and represents blueprint node that can be called in any blueprint.\n*\n*      Wh
+		{ "ToolTip", "*      Function library class.\n*      Each function in it is expected to be static and represents blueprint node that can be called in any blueprint.\n*\n*      When declaring function you can define metadata for the node. Key function specifiers will be BlueprintPure and BlueprintCallable.\n*      BlueprintPure - means the function do
