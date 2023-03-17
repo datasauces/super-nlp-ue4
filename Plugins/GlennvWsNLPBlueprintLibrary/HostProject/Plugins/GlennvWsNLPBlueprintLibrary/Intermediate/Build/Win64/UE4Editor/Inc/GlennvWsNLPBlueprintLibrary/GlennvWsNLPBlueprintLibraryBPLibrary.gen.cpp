@@ -155,4 +155,6 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UGlennvWsNLPBlueprintLibraryBPLibrary>::IsAbstract,
 	};
-	const UE4CodeGen_Private::
+	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::ClassParams = {
+		&UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass,
+		Depen
