@@ -157,4 +157,10 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::ClassParams = {
 		&UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass,
-		Depen
+		DependentSingletons, ARRAY_COUNT(DependentSingletons),
+		0x000000A0u,
+		FuncInfo, ARRAY_COUNT(FuncInfo),
+		nullptr, 0,
+		nullptr,
+		&StaticCppClassTypeInfo,
+		nullptr, 0,
