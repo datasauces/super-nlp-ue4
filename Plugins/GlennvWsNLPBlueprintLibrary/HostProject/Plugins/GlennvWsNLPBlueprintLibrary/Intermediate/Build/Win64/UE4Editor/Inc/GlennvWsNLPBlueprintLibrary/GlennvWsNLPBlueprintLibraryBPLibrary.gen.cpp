@@ -164,4 +164,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		nullptr,
 		&StaticCppClassTypeInfo,
 		nullptr, 0,
-		METADATA_PARAMS(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrar
+		METADATA_PARAMS(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary()
+	{
+		static UClass* OuterClass = nullpt
