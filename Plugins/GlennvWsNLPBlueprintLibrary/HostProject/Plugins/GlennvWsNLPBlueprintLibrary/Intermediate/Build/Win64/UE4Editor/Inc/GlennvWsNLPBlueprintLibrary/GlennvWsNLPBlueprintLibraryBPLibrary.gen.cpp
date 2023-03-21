@@ -176,4 +176,5 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		return OuterClass;
 	}
 	IMPLEMENT_CLASS(UGlennvWsNLPBlueprintLibraryBPLibrary, 603126245);
-	static FCompiledInDefer Z_CompiledInDefer_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, &UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass, TEXT("/Script/GlennvWsNL
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, &UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass, TEXT("/Script/GlennvWsNLPBlueprintLibrary"), TEXT("UGlennvWsNLPBlueprintLibraryBPLibrary"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGlennvWsNLPBlueprintLi
