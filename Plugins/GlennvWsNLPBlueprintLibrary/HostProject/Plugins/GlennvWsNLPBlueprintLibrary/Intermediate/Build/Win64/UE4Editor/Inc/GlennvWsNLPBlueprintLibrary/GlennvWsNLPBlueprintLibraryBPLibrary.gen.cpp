@@ -177,4 +177,8 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	}
 	IMPLEMENT_CLASS(UGlennvWsNLPBlueprintLibraryBPLibrary, 603126245);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, &UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass, TEXT("/Script/GlennvWsNLPBlueprintLibrary"), TEXT("UGlennvWsNLPBlueprintLibraryBPLibrary"), false, nullptr, nullptr, nullptr);
-	DEFINE_VTABLE_PTR_HELPER_CTOR(UGlennvWsNLPBlueprintLi
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGlennvWsNLPBlueprintLibraryBPLibrary);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif
