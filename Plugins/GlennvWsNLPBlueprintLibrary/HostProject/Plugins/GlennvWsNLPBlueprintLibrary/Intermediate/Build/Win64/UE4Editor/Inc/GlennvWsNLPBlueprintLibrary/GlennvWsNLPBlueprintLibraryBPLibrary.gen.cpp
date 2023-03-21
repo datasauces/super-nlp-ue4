@@ -176,4 +176,4 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		return OuterClass;
 	}
 	IMPLEMENT_CLASS(UGlennvWsNLPBlueprintLibraryBPLibrary, 603126245);
-	static FCompiledInDefer Z_CompiledInDefer_UClass_UGle
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, &UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass, TEXT("/Script/GlennvWsNL
