@@ -168,4 +168,9 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 	};
 	UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary()
 	{
-		static UClass* OuterClass = nullpt
+		static UClass* OuterClass = nullptr;
+		if (!OuterClass)
+		{
+			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::ClassParams);
+		}
+		r
