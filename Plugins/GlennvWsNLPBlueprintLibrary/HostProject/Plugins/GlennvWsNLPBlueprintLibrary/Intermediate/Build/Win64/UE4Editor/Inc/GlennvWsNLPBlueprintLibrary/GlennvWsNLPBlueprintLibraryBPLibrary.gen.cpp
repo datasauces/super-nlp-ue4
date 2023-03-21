@@ -173,4 +173,7 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		{
 			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::ClassParams);
 		}
-		r
+		return OuterClass;
+	}
+	IMPLEMENT_CLASS(UGlennvWsNLPBlueprintLibraryBPLibrary, 603126245);
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGle
