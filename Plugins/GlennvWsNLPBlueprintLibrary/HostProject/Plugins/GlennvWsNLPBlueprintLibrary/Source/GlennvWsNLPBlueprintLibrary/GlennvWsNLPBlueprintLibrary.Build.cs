@@ -2,4 +2,8 @@
 
 using UnrealBuildTool;
 
-public class G
+public class GlennvWsNLPBlueprintLibrary : ModuleRules
+{
+	public GlennvWsNLPBlueprintLibrary(ReadOnlyTargetRules Target) : base(Target)
+	{
+		PCHUsage = ModuleRules.PCH
