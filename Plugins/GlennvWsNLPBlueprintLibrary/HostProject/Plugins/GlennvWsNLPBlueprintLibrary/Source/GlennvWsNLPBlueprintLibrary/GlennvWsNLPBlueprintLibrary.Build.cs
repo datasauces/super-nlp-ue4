@@ -6,4 +6,12 @@ public class GlennvWsNLPBlueprintLibrary : ModuleRules
 {
 	public GlennvWsNLPBlueprintLibrary(ReadOnlyTargetRules Target) : base(Target)
 	{
-		PCHUsage = ModuleRules.PCH
+		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
+		
+		PublicIncludePaths.AddRange(
+			new string[] {
+				// ... add public include paths required here ...
+			}
+			);
+				
+		
