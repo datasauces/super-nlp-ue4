@@ -2,4 +2,11 @@
 
 #pragma once
 
-#include "Modules/ModuleMana
+#include "Modules/ModuleManager.h"
+
+class FGlennvWsNLPBlueprintLibraryModule : public IModuleInterface
+{
+public:
+
+	/** IModuleInterface implementation */
+	virtual void StartupModule() over
