@@ -11,4 +11,9 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibrary_init() {}
-	UPackage* Z_C
+	UPackage* Z_Construct_UPackage__Script_GlennvWsNLPBlueprintLibrary()
+	{
+		static UPackage* ReturnPackage = nullptr;
+		if (!ReturnPackage)
+		{
+			static const UE4CodeGen_Private::FPackageParams Pa
