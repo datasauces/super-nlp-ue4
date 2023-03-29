@@ -6,4 +6,9 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #ifdef _MSC_VER
-#pragma warn
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibrary_init() {}
+	UPackage* Z_C
