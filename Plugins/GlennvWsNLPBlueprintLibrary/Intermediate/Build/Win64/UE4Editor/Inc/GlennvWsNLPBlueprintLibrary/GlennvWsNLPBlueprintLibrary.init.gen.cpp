@@ -16,4 +16,10 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibrary_init() {}
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
-			static const UE4CodeGen_Private::FPackageParams Pa
+			static const UE4CodeGen_Private::FPackageParams PackageParams = {
+				"/Script/GlennvWsNLPBlueprintLibrary",
+				PKG_CompiledIn | 0x00000080,
+				0x3B82402E,
+				0x7C29324F,
+				nullptr, 0,
+				METADATA_PARAMS(nullptr, 0)
