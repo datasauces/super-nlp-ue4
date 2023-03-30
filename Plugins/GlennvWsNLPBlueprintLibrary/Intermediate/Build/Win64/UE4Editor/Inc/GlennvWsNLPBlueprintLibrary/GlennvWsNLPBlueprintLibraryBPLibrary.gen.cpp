@@ -164,3 +164,22 @@ void EmptyLinkFunctionForGeneratedCodeGlennvWsNLPBlueprintLibraryBPLibrary() {}
 		nullptr, 0,
 		nullptr,
 		&StaticCppClassTypeInfo,
+		nullptr, 0,
+		METADATA_PARAMS(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary()
+	{
+		static UClass* OuterClass = nullptr;
+		if (!OuterClass)
+		{
+			UE4CodeGen_Private::ConstructUClass(OuterClass, Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary_Statics::ClassParams);
+		}
+		return OuterClass;
+	}
+	IMPLEMENT_CLASS(UGlennvWsNLPBlueprintLibraryBPLibrary, 603126245);
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary(Z_Construct_UClass_UGlennvWsNLPBlueprintLibraryBPLibrary, &UGlennvWsNLPBlueprintLibraryBPLibrary::StaticClass, TEXT("/Script/GlennvWsNLPBlueprintLibrary"), TEXT("UGlennvWsNLPBlueprintLibraryBPLibrary"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGlennvWsNLPBlueprintLibraryBPLibrary);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif
