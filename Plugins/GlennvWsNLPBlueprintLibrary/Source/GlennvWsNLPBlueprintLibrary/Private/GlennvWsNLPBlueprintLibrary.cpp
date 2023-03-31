@@ -16,3 +16,7 @@ void FGlennvWsNLPBlueprintLibraryModule::ShutdownModule()
 	// we call this function before unloading the module.
 	
 }
+
+#undef LOCTEXT_NAMESPACE
+	
+IMPLEMENT_MODULE(FGlennvWsNLPBlueprintLibraryModule, GlennvWsNLPBlueprintLibrary)
