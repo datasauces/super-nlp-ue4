@@ -6,4 +6,14 @@
 #include "Runtime/Core/Public/HAL/FileManager.h"
 
 UGlennvWsNLPBlueprintLibraryBPLibrary::UGlennvWsNLPBlueprintLibraryBPLibrary(const FObjectInitializer& ObjectInitializer)
-: Super(ObjectInitiali
+: Super(ObjectInitializer)
+{
+
+}
+
+float UGlennvWsNLPBlueprintLibraryBPLibrary::GlennvWsNLPBlueprintLibrarySampleFunction(float Param)
+{
+	return -1;
+}
+
+bool UGlennvWsNLPBlueprintLibraryBPLi
