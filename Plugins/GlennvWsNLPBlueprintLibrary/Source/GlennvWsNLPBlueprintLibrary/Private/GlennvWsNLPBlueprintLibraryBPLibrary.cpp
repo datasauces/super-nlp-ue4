@@ -16,4 +16,8 @@ float UGlennvWsNLPBlueprintLibraryBPLibrary::GlennvWsNLPBlueprintLibrarySampleFu
 	return -1;
 }
 
-bool UGlennvWsNLPBlueprintLibraryBPLi
+bool UGlennvWsNLPBlueprintLibraryBPLibrary::GetFileListOfRootFolder(TArray<FString>& Files, FString RootFolderFullPath, FString Ext)
+{
+	if (RootFolderFullPath.Len() < 1) return false;
+
+	
