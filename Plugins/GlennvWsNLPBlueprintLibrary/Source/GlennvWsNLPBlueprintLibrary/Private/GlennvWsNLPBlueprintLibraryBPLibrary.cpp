@@ -20,4 +20,14 @@ bool UGlennvWsNLPBlueprintLibraryBPLibrary::GetFileListOfRootFolder(TArray<FStri
 {
 	if (RootFolderFullPath.Len() < 1) return false;
 
-	
+	FPaths::NormalizeDirectoryName(RootFolderFullPath);
+
+	IFileManager& FileManager = IFileManager::Get();
+
+	if (Ext == "")
+	{
+		Ext = "*.*";
+	}
+	else
+	{
+		Ext = (Ext.
