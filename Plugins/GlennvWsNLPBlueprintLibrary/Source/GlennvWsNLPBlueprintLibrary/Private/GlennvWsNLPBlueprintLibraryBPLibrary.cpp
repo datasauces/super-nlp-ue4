@@ -37,3 +37,4 @@ bool UGlennvWsNLPBlueprintLibraryBPLibrary::GetFileListOfRootFolder(TArray<FStri
 	FileManager.FindFiles(Files, *FinalPath, true, false);
 	return true;
 }
+
