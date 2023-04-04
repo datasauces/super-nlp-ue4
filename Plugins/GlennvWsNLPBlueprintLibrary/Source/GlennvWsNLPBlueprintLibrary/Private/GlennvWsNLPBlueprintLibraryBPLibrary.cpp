@@ -30,4 +30,10 @@ bool UGlennvWsNLPBlueprintLibraryBPLibrary::GetFileListOfRootFolder(TArray<FStri
 	}
 	else
 	{
-		Ext = (Ext.
+		Ext = (Ext.Left(1) == ".") ? "*" + Ext : "*." + Ext;
+	}
+
+	FString FinalPath = RootFolderFullPath + "/" + Ext;
+	FileManager.FindFiles(Files, *FinalPath, true, false);
+	return true;
+}
