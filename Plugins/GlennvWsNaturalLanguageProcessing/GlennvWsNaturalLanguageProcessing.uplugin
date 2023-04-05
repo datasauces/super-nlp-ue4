@@ -2,4 +2,5 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "Gl
+	"FriendlyName": "GlennvWsNaturalLanguageProcessing",
+	"Description": "Allows the extraction of entities and intents from natural language setences. Requires TensorFl
