@@ -1,3 +1,7 @@
 barrel,none,none,none,none,none,none,none,none,none
 go,barrel,none,none,none,none,none,none,none,none
 approach,barrel,none,none,none,none,none,none,none,none
+go,through,none,none,none,none,none,none,none,none
+go,through,barrel,none,none,none,none,none,none,none
+enter,none,none,none,none,none,none,none,none,none
+enter,
