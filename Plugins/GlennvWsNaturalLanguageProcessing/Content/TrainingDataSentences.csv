@@ -4,4 +4,7 @@ approach,barrel,none,none,none,none,none,none,none,none
 go,through,none,none,none,none,none,none,none,none
 go,through,barrel,none,none,none,none,none,none,none
 enter,none,none,none,none,none,none,none,none,none
-enter,
+enter,barrel,none,none,none,none,none,none,none,none
+use,none,none,none,none,none,none,none,none,none
+use,key,none,none,none,none,none,none,none,none
+open,none,no
