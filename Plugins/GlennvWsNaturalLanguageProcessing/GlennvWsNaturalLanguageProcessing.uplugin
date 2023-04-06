@@ -12,4 +12,5 @@
 	"SupportURL": "",
 	"EngineVersion": "4.21.0",
 	"CanContainContent": true,
-	"Installed": t
+	"Installed": true
+}
